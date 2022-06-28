@@ -1,0 +1,11 @@
+.planetList {
+  display: flex;
+  list-style: none;
+  margin: 0 auto;
+  width: 80%;
+}
+
+.system {
+  padding: 10px 0;
+  text-align: center;
+}
